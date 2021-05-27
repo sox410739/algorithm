@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593952228 source:d:\programfiles\algorithm\edgeconnectivity\main.cpp
+	<iostream>
+	<vector>
+

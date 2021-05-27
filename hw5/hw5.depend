@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590576759 source:d:\programfiles\algorithm\hw5\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

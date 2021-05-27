@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586337171 source:d:\programfiles\algorithm\hw2-2\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588645340 source:d:\programfiles\algorithm\huffman\main.cpp
+	<iostream>
+	<queue>
+

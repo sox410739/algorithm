@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586786362 source:d:\programfiles\algorithm\string alignment\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+

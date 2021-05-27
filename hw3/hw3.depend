@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587752362 source:d:\programfiles\algorithm\hw3\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<fstream>
+	<time.h>
+
